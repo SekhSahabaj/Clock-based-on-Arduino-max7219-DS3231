@@ -148,7 +148,7 @@ void loop(void)
 
         break;
 
-      case 2: // Clock
+      case 2: // Time
      
      P.setFont(0, numeric7Seg);
      P.setTextEffect(0, PA_PRINT, PA_NO_EFFECT);
