@@ -17,9 +17,9 @@ Arduino matrix clock based on max7219 8*8 matrix module & ds3231 clock module
 ## Pinout :
 ### Arduino     MAX7219      DS3231
 - 13->   &nbsp;   &nbsp;  &nbsp;   CSK
-- 10->             CS
-- 12->             DATA
+- 10->      &nbsp;   &nbsp; &nbsp; CS
+- 12->        &nbsp;  &nbsp; &nbsp; DATA
 - A4->                         SDA
 - A5->                          SCL
-- VCC->            VCC         VCC
+- VCC->      &nbsp; &nbsp;   &nbsp; VCC   &nbsp; &nbsp; &nbsp; VCC
 - GND->            GND         GND
