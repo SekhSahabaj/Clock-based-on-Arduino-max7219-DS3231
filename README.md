@@ -15,11 +15,11 @@ Arduino matrix clock based on max7219 8*8 matrix module & ds3231 clock module
 
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW // Module type FC16_HW
 ## Pinout :
-### Arduino                       MAX7219                DS3231
-13->                           CSK 
-10->                           CS
-12->                           DATA
-A4->                                                   SDA
-A5->                                                   SCL
-VCC->                          VCC                     VCC
-GND->                          GND                     GND
+### Arduino     MAX7219      DS3231
+### 13->             CSK 
+### 10->             CS
+### 12->             DATA
+### A4->                          SDA
+### A5->                          SCL
+### VCC->            VCC          VCC
+### GND->            GND          GND
