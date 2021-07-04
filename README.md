@@ -12,6 +12,7 @@ Arduino matrix clock based on max7219 8*8 matrix module & ds3231 clock module
 * Message
 # Notes :
 * If you have wrong display orientation or differnt matrix module type then try changing the code with these module types GENERIC_HW, FC16_HW, PAROLA_HW & ICSTATION_HW
+
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW // Module type FC16_HW
 ## Pinout :
 Arduino     MAX7219    DS3231
