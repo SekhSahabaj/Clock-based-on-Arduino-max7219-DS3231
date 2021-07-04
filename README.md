@@ -19,7 +19,7 @@ Arduino matrix clock based on max7219 8*8 matrix module & ds3231 clock module
 - 13->   &nbsp;   &nbsp;  &nbsp;   CSK
 - 10->      &nbsp;   &nbsp; &nbsp; CS
 - 12->        &nbsp;  &nbsp; &nbsp; DATA
-- A4->          &nbsp; &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp;   SDA
-- A5->            &nbsp; &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;      &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp;  SCL
+- A4->       &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp;   SDA
+- A5->        &nbsp; &nbsp;   &nbsp;    &nbsp; &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;      &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp;  SCL
 - VCC->      &nbsp; &nbsp;   &nbsp; VCC   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp; VCC
 - GND->        &nbsp; &nbsp;   &nbsp;    GND  &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp;     GND
